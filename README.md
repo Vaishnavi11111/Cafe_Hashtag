@@ -1,4 +1,4 @@
-### Cafe Delight
+### Cafe Hashtag
 
 ###### Industry:- Lifestyle
 ###### Project Title:- Cafe Management Application with Online Reservation System
