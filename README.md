@@ -1,5 +1,4 @@
 ### Cafe Delight
-#### This is the readme file for the FRT Project developed by Balraj Upadhyay, Virat Desale and Prathmesh Joshi
 
 ###### Industry:- Lifestyle
 ###### Project Title:- Cafe Management Application with Online Reservation System
